@@ -1,0 +1,39 @@
+
+
+.exclusive_Deals {
+    margin-top: 30px;
+    width: 100%;
+}
+
+.exclusive_Deals > h3 {
+    margin-left: 20px;
+}
+
+
+.exclusive_products {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+
+
+.exclusive_products > img {
+    width: 600px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .exclusive_products > img {
+    width: 400px;
+    }
+  }
+
+  @media only screen and (max-width: 400px) {
+    .exclusive_products > img {
+    width: 300px;
+    }
+  }

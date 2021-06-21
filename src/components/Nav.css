@@ -1,0 +1,25 @@
+
+.Navs {
+display: flex;
+background-color: #FCF7F7;
+}
+
+.categories {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 1000px;
+    /* margin-top: 15px; */
+    
+}
+
+.categories > p {
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 15px;
+}
+.btn {
+    font-size: 13px !important;
+    font-weight: bold !important;
+}

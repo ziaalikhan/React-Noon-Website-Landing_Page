@@ -1,0 +1,28 @@
+
+
+.mega_deals {
+    margin-top: 20px;
+    background-color: #ffecb0;
+    /* height: 410px; */
+    padding: 20px;
+}
+
+.megaDeals_Heading {
+    width: 100%;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.megaProduct {
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 10px; */
+    flex-wrap: wrap;
+    cursor: pointer;
+}
+
+.megaProduct > img {
+    width: 270px;
+    margin-top: 15px;
+    cursor: pointer;
+}

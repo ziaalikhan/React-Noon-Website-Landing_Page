@@ -1,0 +1,13 @@
+
+
+
+.footer {
+    height: 60px;
+    background-color: lightgrey;
+}
+
+.foottxt {
+    text-align: center;
+    /* margin-top: 10px; */
+    padding-top: 20px;
+}

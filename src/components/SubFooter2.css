@@ -1,0 +1,23 @@
+
+
+.subFooter_coloum {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    /* width: 250px; */
+}
+.col1foot {
+    width: 120px;
+   
+}
+
+.itemHeading {
+    font-size:14px;
+    font-weight: bold;
+}
+
+.col1foot > h6 {
+    font-size: 13px;
+    cursor: pointer;
+}

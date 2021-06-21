@@ -1,0 +1,15 @@
+
+.subCard1 {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+
+.subCard1 > img {
+    width: 300px;
+    cursor: pointer;
+}

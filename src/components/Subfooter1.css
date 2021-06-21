@@ -1,0 +1,40 @@
+
+
+
+.maincountainer {
+ border: 1px solid lightgray !important;
+    width: 100% !important;
+    margin-top: 30px !important;
+    padding: 10px !important;
+    background-color: #efedf5;
+    
+    /* padding-left: -30px !important; */
+}
+
+
+.col > h5 {
+    font-size: 17px !important;
+}
+
+
+.col > h6 {
+    font-size: 14px !important;
+}
+
+.colsecnd {
+    display: flex !important;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.help {
+    font-size: 17px !important;
+}
+
+.col1 > h6 {
+    font-size: 14px !important;
+}
+
+.col2 > h6 {
+    font-size: 14px !important;
+}

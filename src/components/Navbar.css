@@ -1,0 +1,23 @@
+
+.navbar{
+    background-color: yellow !important;
+}
+
+.form-control {
+    width: 750px !important;
+    
+}
+
+
+.ship_to {
+    font-size: 10px !important;
+}
+
+.nav-item > a {
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    color: black !important;
+}
+.cart_icon {
+    font-size: 19px !important;
+}

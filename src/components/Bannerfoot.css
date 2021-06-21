@@ -1,0 +1,22 @@
+
+
+.banner_foot {
+    margin-top: 30px;
+    /* cursor: point?er; */
+}
+
+
+.banner_foot > img {
+    cursor: pointer;
+}
+
+.delevery_banner {
+    text-align: center;
+}
+
+.delevery_banner > img {
+    width: 95%;
+    height: 200px;
+    margin-top: 40px;
+    border-radius: 3px;
+}

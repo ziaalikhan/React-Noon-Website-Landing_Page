@@ -1,0 +1,43 @@
+
+.mainSocial_Cont {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 45px;
+    height: 110px;
+    border-bottom: 1px solid lightgray;
+}
+
+
+.social_images {
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    /* background-color: blue; */
+}
+
+.social_images > img {
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.social_Icons_heading {
+    width: 200px;
+    text-align: center;
+}
+
+
+.icons_social {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 200px;
+
+}
+
+.icons {
+    font-size: 40px !important;
+    background-color: yellow;
+    padding: 5px;
+    border-radius: 50%;
+}

@@ -1,0 +1,23 @@
+
+
+.trendingDealsHeading {
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: 25px;  */
+    /* background-color: #ffecb0; */
+
+}
+
+.trendingDealsHeading > h4 {
+    margin-left: 20px;
+    margin-top: 35px; 
+    font-size: 19px;
+    font-weight: bold;
+}
+.trendingDealsHeading > button {
+    margin-right: 20px;
+    margin-top: 35px; 
+    border: 1px solid black;
+    font-size: 11px;
+    width: 65px;
+}
